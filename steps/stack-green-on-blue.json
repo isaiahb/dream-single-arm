@@ -1,0 +1,7 @@
+[
+ {"prompt": "pick up the green cube", "seconds": 12},
+ {"prompt": "hold the green cube above the blue cube", "seconds": 8},
+ {"prompt": "put the green cube down on the blue cube", "seconds": 8},
+ {"prompt": "open the gripper", "seconds": 4},
+ {"prompt": "move the {side} arm up", "seconds": 4}
+]

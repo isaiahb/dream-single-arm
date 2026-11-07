@@ -1,0 +1,9 @@
+[
+ {"prompt": "move the {side} gripper above the green cube", "seconds": 15},
+ {"prompt": "grasp the green cube with the {side} gripper", "seconds": 15},
+ {"prompt": "lift the green cube", "seconds": 10},
+ {"prompt": "move the green cube above the blue cube", "seconds": 15},
+ {"prompt": "place the green cube on top of the blue cube", "seconds": 15},
+ {"prompt": "open the {side} gripper", "seconds": 6},
+ {"prompt": "move the {side} arm up", "seconds": 6}
+]
